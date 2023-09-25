@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S06_PenaltyKick.unity
     guid: 5e7e2aa81f384a143a28f8bcc7711b5a
+  - enabled: 1
+    path: Assets/Scenes/Assignment 15_4.unity
+    guid: b0ec4297b1fd23344a801fa08c6a6963
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: e35a2244a1c49184cba9e4175071694f, type: 2}
